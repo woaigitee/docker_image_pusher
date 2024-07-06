@@ -1,9 +1,9 @@
-ht944/rabbitpro:latest
-whyour/qinglong:2.11.3
-jaaksi/sublink:latest
-xhofe/alist:latest
-rustdesk/rustdesk-server:latest
-ghcr.io/mhsanaei/3x-ui:latest
-gdy666/lucky:latest
-xiaoyaliu/alist:hostmode 
-whyour/qinglong:latest 
+--platform=linux/arm64 ht944/rabbitpro:latest
+--platform=linux/arm64 whyour/qinglong:2.11.3
+--platform=linux/arm64 jaaksi/sublink:latest
+--platform=linux/arm64 xhofe/alist:latest
+--platform=linux/arm64 rustdesk/rustdesk-server:latest
+--platform=linux/arm64 ghcr.io/mhsanaei/3x-ui:latest
+--platform=linux/arm64 gdy666/lucky:latest
+--platform=linux/arm64 xiaoyaliu/alist:hostmode 
+--platform=linux/arm64 whyour/qinglong:latest 
