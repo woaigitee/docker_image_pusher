@@ -8,4 +8,3 @@
 --platform=linux/arm64 xiaoyaliu/alist:hostmode 
 --platform=linux/arm64 whyour/qinglong:latest 
 --platform=linux/arm64 whyour/qinglong:debian
---platform=linux/arm32 whyour/qinglong:debian
